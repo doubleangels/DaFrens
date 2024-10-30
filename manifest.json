@@ -1,0 +1,23 @@
+{
+    "name": "DaFrens",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/doubleangels/DaFrens",
+    "description": "Lethal Company modpack for Da Frens!",
+    "dependencies": [
+      "BepInEx-BepInExPack-5.4.2100",
+      "notnotnotswipez-MoreCompany-1.11.0",
+      "anormaltwig-LateCompany-1.0.18",
+      "tinyhoot-ShipLoot-1.1.0",
+      "FlipMods-ReservedFlashlightSlot-2.0.8",
+      "Renegades-FlashlightToggle-1.5.0",
+      "Clementinise-QuickTerminalRestart-1.0.3",
+      "FlipMods-BetterStamina-1.5.4",
+      "FlipMods-LetMeLookDown-1.0.2",
+      "MetalPipeSFX-HornMoan-2.1.0",
+      "RugbugRedfern-Skinwalkers-5.0.0",
+      "FlipMods-TooManyEmotes-2.2.8",
+      "x753-More_Suits-1.4.4",
+      "TwinDimensionalProductions-CoilHeadStare-1.0.9"
+    ]
+  }
+  
